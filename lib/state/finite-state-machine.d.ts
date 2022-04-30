@@ -65,7 +65,7 @@ export declare class FiniteStateMachine {
      * Performs a transition to the given state.
      * This method also validate the transition.
      */
-    go(to: string): Window | this;
+    go(to: string): (Window & typeof globalThis) | this;
     /**
      * Provides the error handler for the FSM.
      */
@@ -76,3 +76,4 @@ export declare class FiniteStateMachine {
     current(): string;
 }
 export {};
+//# sourceMappingURL=finite-state-machine.d.ts.map

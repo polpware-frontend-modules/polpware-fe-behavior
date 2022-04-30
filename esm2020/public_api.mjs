@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of fe-behavior
+ */
+export * from './lib/state/finite-state-machine';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3BvbHB3YXJlL2ZlLWJlaGF2aW9yL3NyYy9wdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgZmUtYmVoYXZpb3JcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9zdGF0ZS9maW5pdGUtc3RhdGUtbWFjaGluZSc7XG4iXX0=
